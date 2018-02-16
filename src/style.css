@@ -3,12 +3,20 @@ body {
   font-size: 12pt;
 }
 
+h1 {
+  font-size: 14pt;
+}
+
 header {
   max-width: 960px;
   padding: 1rem;
   background: #000000;
   color: #ffffff;
   margin: auto;
+}
+
+header h1 {
+  font-size: 24pt;
 }
 
 footer {
