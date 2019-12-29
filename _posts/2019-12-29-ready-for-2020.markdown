@@ -1,0 +1,7 @@
+---
+layout: post
+title: Ready for 2020
+date: 2019-12-29 18:00:00 +0100
+---
+
+New year, new projects. I'll be writing about them, current topics and problems I'll be facing in this blog.

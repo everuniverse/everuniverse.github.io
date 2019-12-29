@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Hello 2020!"
-date:   2020-01-01 00:00:00 +0100
----
-
-New year, new projects. I'll be keeping track of some of my projects in this blog. Also writing about problems I'll be facing in the progress.
