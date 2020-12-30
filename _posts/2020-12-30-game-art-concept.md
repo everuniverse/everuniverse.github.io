@@ -3,7 +3,7 @@ layout: post
 title:  "Game Art Concept"
 ---
 
-# Game Art Concept
+# 16x16 City Scene
 
 Created this game art concept inspired by Sierra's AGI games.
 
