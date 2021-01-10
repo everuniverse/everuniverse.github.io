@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Animation Added"
+---
+
+Fixed the texture mapping and added player walking animation and gamepad support.
+
+![Screenshot](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c4340bf5-4e0b-4caf-8931-5a47e42fcd06/debzxop-35d80a98-ad38-4433-83c5-f5da9d0a61e3.png/v1/fill/w_1192,h_670,q_70,strp/screenshot__7__by_everuniverse_debzxop-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD03MjAiLCJwYXRoIjoiXC9mXC9jNDM0MGJmNS00ZTBiLTRjYWYtODkzMS01YTQ3ZTQyZmNkMDZcL2RlYnp4b3AtMzVkODBhOTgtYWQzOC00NDMzLTgzYzUtZjVkYTlkMGE2MWUzLnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.jrHGbbaUcxRk7iosvjcjE2TOsGiSd9E9YEL15B3oyvo)
